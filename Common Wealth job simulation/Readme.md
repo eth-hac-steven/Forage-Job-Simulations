@@ -1,4 +1,5 @@
-Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage
+# Commonwealth Bank Introduction to Cybersecurity 
+## Job Simulation on Forage <br>
 April 27, 2026
  * Completed a job simulation involving the role of a cybersecurity generalist,
    specializing in fraud detection and prevention for Commonwealth Bank's
@@ -16,7 +17,7 @@ April 27, 2026
    of web applications, identifying vulnerabilities, and providing
    recommendations for remediation to bolster cybersecurity defenses.
 
-   ## Experience
+## Experience
 
 - Installed and set up Splunk Enterprise, import the provided dataset and explore it using Splunk.
 - Gained hands-on experience in data analysis, especially in the context of cyber data.
